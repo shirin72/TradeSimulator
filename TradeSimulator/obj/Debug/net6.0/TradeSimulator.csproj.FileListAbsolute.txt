@@ -1,0 +1,15 @@
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\TradeSimulator.csproj.AssemblyReference.cache
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\TradeSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\TradeSimulator.AssemblyInfoInputs.cache
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\TradeSimulator.AssemblyInfo.cs
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\TradeSimulator.csproj.CoreCompileInputs.cache
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\bin\Debug\net6.0\TradeSimulator.exe
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\bin\Debug\net6.0\TradeSimulator.deps.json
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\bin\Debug\net6.0\TradeSimulator.runtimeconfig.json
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\bin\Debug\net6.0\TradeSimulator.dll
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\bin\Debug\net6.0\ref\TradeSimulator.dll
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\bin\Debug\net6.0\TradeSimulator.pdb
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\TradeSimulator.dll
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\ref\TradeSimulator.dll
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\TradeSimulator.pdb
+C:\Users\S.monzavi\source\repos\TradeSimulator\TradeSimulator\obj\Debug\net6.0\TradeSimulator.genruntimeconfig.cache
